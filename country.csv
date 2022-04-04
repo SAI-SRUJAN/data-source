@@ -25,7 +25,7 @@ Belize,BZ,BLZ,84
 Benin,BJ,BEN,204
 Bermuda,BM,BMU,60
 Bhutan,BT,BTN,64
-Bolivia (Plurinational State of),BO,BOL,68
+Bolivia,BO,BOL,68
 "Bonaire, Sint Eustatius and Saba",BQ,BES,535
 Bosnia and Herzegovina,BA,BIH,70
 Botswana,BW,BWA,72
@@ -49,8 +49,7 @@ Christmas Island,CX,CXR,162
 Cocos (Keeling) Islands,CC,CCK,166
 Colombia,CO,COL,170
 Comoros,KM,COM,174
-Congo,CG,COG,178
-Congo (Democratic Republic of the),CD,COD,180
+Congo,CD,COD,180
 Cook Islands,CK,COK,184
 Costa Rica,CR,CRI,188
 Côte d'Ivoire,CI,CIV,384
@@ -104,7 +103,7 @@ Hungary,HU,HUN,348
 Iceland,IS,ISL,352
 India,IN,IND,356
 Indonesia,ID,IDN,360
-Iran (Islamic Republic of),IR,IRN,364
+Iran,IR,IRN,364
 Iraq,IQ,IRQ,368
 Ireland,IE,IRL,372
 Isle of Man,IM,IMN,833
@@ -118,7 +117,7 @@ Kazakhstan,KZ,KAZ,398
 Kenya,KE,KEN,404
 Kiribati,KI,KIR,296
 Korea (Democratic People's Republic of),KP,PRK,408
-Korea (Republic of),KR,KOR,410
+South Korea,KR,KOR,410
 Kuwait,KW,KWT,414
 Kyrgyzstan,KG,KGZ,417
 Lao People's Democratic Republic,LA,LAO,418
@@ -182,7 +181,7 @@ Puerto Rico,PR,PRI,630
 Qatar,QA,QAT,634
 Réunion,RE,REU,638
 Romania,RO,ROU,642
-Russian Federation,RU,RUS,643
+Russia,RU,RUS,643
 Rwanda,RW,RWA,646
 Saint Barthélemy,BL,BLM,652
 "Saint Helena, Ascension and Tristan da Cunha",SH,SHN,654
@@ -216,9 +215,9 @@ Svalbard and Jan Mayen,SJ,SJM,744
 Sweden,SE,SWE,752
 Switzerland,CH,CHE,756
 Syrian Arab Republic,SY,SYR,760
-"Taiwan, Province of China",TW,TWN,158
+"Taiwan. ROC",TW,TWN,158
 Tajikistan,TJ,TJK,762
-"Tanzania, United Republic of",TZ,TZA,834
+Tanzania,TZ,TZA,834
 Thailand,TH,THA,764
 Timor-Leste,TL,TLS,626
 Togo,TG,TGO,768
@@ -233,13 +232,13 @@ Tuvalu,TV,TUV,798
 Uganda,UG,UGA,800
 Ukraine,UA,UKR,804
 United Arab Emirates,AE,ARE,784
-United Kingdom of Great Britain and Northern Ireland,GB,GBR,826
-United States of America,US,USA,840
+United Kingdom,GB,GBR,826
+USA,US,USA,840
 United States Minor Outlying Islands,UM,UMI,581
 Uruguay,UY,URY,858
 Uzbekistan,UZ,UZB,860
 Vanuatu,VU,VUT,548
-Venezuela (Bolivarian Republic of),VE,VEN,862
+Venezuela,VE,VEN,862
 Viet Nam,VN,VNM,704
 Virgin Islands (British),VG,VGB,92
 Virgin Islands (U.S.),VI,VIR,850
