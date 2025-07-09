@@ -1,1 +1,1 @@
-***REMOVED*** = fetch()
+***REMOVED*** = ***REMOVED***
